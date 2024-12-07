@@ -2,6 +2,8 @@
 
 This Unity project implements concepts from Catlike Coding's tutorial on [Mathematical Surfaces](https://catlikecoding.com/unity/tutorials/basics/mathematical-surfaces/). It visualizes mathematical functions dynamically in 3D space, helping explore their behavior interactively.
 
+[Watch the Demo](https://github.com/user-attachments/assets/350b868e-e357-4400-b813-9c82d83c7956)
+
 ---
 
 ## Table of Contents
